@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BlazorAppRadzenNet8waMenuAdaptiveBehaviorMobile",
   "resources": {
-    "hash": "sha256-tEp9M4KuSPz4xh9J8LGEDHJuS1WG/K3nxUbnz60/8nU=",
+    "hash": "sha256-4coFkSX9rMz1IYt8gRS5Senk5+k9SkfyEGwuoJ7xUBE=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-ftpNqtARtVNE8ku5eB/jXoklb41UQ+EutUHfwmbNTBY="
     },
@@ -18,7 +18,7 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "BlazorAppRadzenNet8waMenuAdaptiveBehaviorMobile.wasm": "sha256-foRe6+PUu3gGe5PoSTHv+L/AKJ6yKB1mQA7hCx6iJ68=",
+      "BlazorAppRadzenNet8waMenuAdaptiveBehaviorMobile.wasm": "sha256-SMfsJ/FwwSvnLgZIP/Wd0ceuDoxujJm1JdMVUvhpHw8=",
       "Mapster.Core.wasm": "sha256-TtVD3ZLBnfkyp2wZGh0Zdq76kODF5kS8P6l91a7SVDA=",
       "Mapster.wasm": "sha256-zMqum/r3XCq0wm80zzfaEQ4LR5DJZnx7FXCghCHunAA=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-zO9PPgDJhr95yOLW0Pk9B0NouwrBUB+5uWpFPpbA7hE=",
